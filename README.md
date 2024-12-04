@@ -10,6 +10,8 @@ Uma calculadora interativa para resolver equações de segundo grau. O aplicativ
   - Raízes complexas.
 - Interface gráfica com abas (Cálculo e Histórico).
 - Histórico detalhado do processo de cálculo.
+- Botão para exportar o histórico para o computador
+- Botão para alterar o tema do programa
 
 
 ## Cronograma de Desenvolvimento
