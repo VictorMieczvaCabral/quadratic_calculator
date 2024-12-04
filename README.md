@@ -1,22 +1,25 @@
 # quadratic calculator
 
 ## Objetivo
-Este projeto é uma calculadora de equações de segundo grau que resolve equações na forma `ax^2 + bx + c = 0`, retornando raízes reais ou complexas, dependendo do discriminante (`Δ`).
+Uma calculadora interativa para resolver equações de segundo grau. O aplicativo permite calcular raízes reais e complexas, documentando o processo e armazenando o histórico de cálculos.
 
 ## Funcionalidades
 - Solução de equações de segundo grau.
 - Tratamento de casos especiais:
   - Equações lineares (`a = 0`).
   - Raízes complexas.
-- Interface simples baseada no terminal.
+- Interface gráfica com abas (Cálculo e Histórico).
+- Histórico detalhado do processo de cálculo.
+
 
 ## Cronograma de Desenvolvimento
-| Etapa                 | Descrição                                  | Prazo      |
-|-----------------------|--------------------------------------------|------------|
-| Configuração Inicial  | Criação do repositório e planejamento.     | Dia 1      |
-| Lógica do Programa    | Implementação do código principal.         | Dia 2      |
-| Interface do Usuário  | Refinamento da entrada e saída de dados.   | Dia 3      |
-| Testes e Documentação | Testes de funcionalidade e escrita do README. | Dia 4      |
+| Etapa                  | Prazo           |
+|------------------------|-----------------|
+| Planejamento inicial   | 1 dia           |
+| Implementação básica   | 2 dias          |
+| Adição de histórico    | 1 dia           |
+| Melhorias visuais      | 1 dia           |
+| Documentação           | 1 dia           |
 
 ## Como Executar
 1. Clone o repositório:
