@@ -12,9 +12,11 @@ Uma calculadora interativa para resolver equações de segundo grau. O aplicativ
 - Histórico detalhado do processo de cálculo.
 - Botão para exportar o histórico para o computador
 - Botão para alterar o tema do programa
-- Botão para limpar o valor dos campos
+- Botão para limpar o valor dos campos com aba de confirmação
 - Botão para gerar valores aleatorios
 - Discriminante (delta) sendo destacado
+- Mostra a soma e o produto das raízes
+- Botão com dicas para facilitar a utilização
 
 
 ## Cronograma de Desenvolvimento
