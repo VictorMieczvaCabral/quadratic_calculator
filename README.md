@@ -12,6 +12,9 @@ Uma calculadora interativa para resolver equações de segundo grau. O aplicativ
 - Histórico detalhado do processo de cálculo.
 - Botão para exportar o histórico para o computador
 - Botão para alterar o tema do programa
+- Botão para limpar o valor dos campos
+- Botão para gerar valores aleatorios
+- Discriminante (delta) sendo destacado
 
 
 ## Cronograma de Desenvolvimento
@@ -37,5 +40,7 @@ Uma calculadora interativa para resolver equações de segundo grau. O aplicativ
    python quadratic_calculator.py
    ```
    ## Desafios
+   - Entender como fazer a maioria das funcionalidades
+   - Aprender a sincronizar o VScode e o Github
    - Aprender a usar branches corretamente no Git.
    - Garantir a precisão ao lidar com números complexos.
