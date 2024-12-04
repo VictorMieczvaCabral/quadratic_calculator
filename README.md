@@ -1,1 +1,1 @@
-# quadratic_calculator
+# quadratic calculator
