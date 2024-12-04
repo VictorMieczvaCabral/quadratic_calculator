@@ -31,3 +31,6 @@ Este projeto é uma calculadora de equações de segundo grau que resolve equaç
    ```bash
    python quadratic_calculator.py
    ```
+   ## Desafios
+   - Aprender a usar branches corretamente no Git.
+   - Garantir a precisão ao lidar com números complexos.
