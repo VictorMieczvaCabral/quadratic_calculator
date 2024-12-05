@@ -1,4 +1,4 @@
-# quadratic calculator
+# Calculadora Quádratica
 
 ## Objetivo
 Uma calculadora interativa para resolver equações de segundo grau. O aplicativo permite calcular raízes reais e complexas, documentando o processo e armazenando o histórico de cálculos.
